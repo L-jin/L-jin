@@ -5,7 +5,7 @@
 
      ### --
                                              
-    <img src="https://img.shields.io/badge/C-97D772?style=flat-square&logo=C&logoColor=black"/></a> <img src="https://img.shields.io/badge/C++-65AD36?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-807BC7?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-FFEF60?style=flat-square&logo=JavaScript&logoColor=black"/></a> <img src="https://img.shields.io/badge/JAVA-FDD24E?style=flat-square&logo=Java&logoColor=black"/></a> <img src="https://img.shields.io/badge/Assembly-F36D6D?style=flat-square&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/C-97D772?style=flat-square&logo=C&logoColor=black"/></a> <img src="https://img.shields.io/badge/C++-65AD36?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-807BC7?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-FFEF60?style=flat-square&logo=JavaScript&logoColor=black"/></a> <img src="https://img.shields.io/badge/JAVA-FDD24E?style=flat-square&logo=Java&logoColor=black"/></a> 
  
  
  
