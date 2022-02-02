@@ -15,15 +15,6 @@
  
  
 
-       ⌜
-        ...R U here to find a hacker?_
-        ...welcome! Find me tommorrow_
-                                       ⌟
-
-
-![security-g486ff599f_1920](https://user-images.githubusercontent.com/96716425/149051957-7d51b3d4-35a0-4b1d-8721-138a742cfe93.jpg)
-
-
 
 
 ✉️instagram: binary_search00
