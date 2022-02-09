@@ -11,7 +11,7 @@
  
      ### --
                                             
-    <img src="https://img.shields.io/badge/Algorithm-BDB6BC?style=flat-square&logo=TheAlgorithms&logoColor=black"/></a> <img src="https://img.shields.io/badge/Rinux-5B11B4?style=flat-square&logo=Ubuntu&logoColor=white"/></a> <img src="https://img.shields.io/badge/Html-D77281?style=flat-square&logo=Html5&logoColor=white"/></a> <img src="https://img.shields.io/badge/Css-5F0053?style=flat-square&logo=Css3&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/></a> 
+    <img src="https://img.shields.io/badge/Algorithm-BDB6BC?style=flat-square&logo=TheAlgorithms&logoColor=black"/></a> <img src="https://img.shields.io/badge/Linux-5B11B4?style=flat-square&logo=Linux&logoColor=white"/></a> <img src="https://img.shields.io/badge/Html-D77281?style=flat-square&logo=Html5&logoColor=white"/></a> <img src="https://img.shields.io/badge/Css-5F0053?style=flat-square&logo=Css3&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/></a> 
  
  
 
