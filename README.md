@@ -5,8 +5,7 @@
 
      ### --
                                              
-    <img src="https://img.shields.io/badge/C-97D772?&logo=C&logoColor=black"/></a> <img src="https://img.shields.io/badge/C++-65AD36?&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-807BC7?&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-FFEF60?&logo=JavaScript&logoColor=black"/></a> <img src="https://img.shields.io/badge/JAVA-FDD24E?&logo=Java&logoColor=black"/></a> 
- 
+    <img src="https://img.shields.io/badge/C-97D772?&logo=C&logoColor=black"/></a> <img src="https://img.shields.io/badge/C++-65AD36?&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-807BC7?&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-FFEF60?&logo=JavaScript&logoColor=black"/></a> 
  
  
      ### --
