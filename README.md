@@ -10,7 +10,7 @@
  
      ### --
                                             
-    <img src="https://img.shields.io/badge/Algorithm-BDB6BC?&logo=TheAlgorithms&logoColor=black"/></a> <img src="https://img.shields.io/badge/Linux-5B11B4?&logo=Linux&logoColor=white"/></a> <img src="https://img.shields.io/badge/Html-D77281?&logo=Html5&logoColor=white"/></a> <img src="https://img.shields.io/badge/Css-5F0053?&logo=Css3&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Security-00BAFF?"/></a> 
+    <img src="https://img.shields.io/badge/Algorithm-BDB6BC?&logo=TheAlgorithms&logoColor=black"/></a> <img src="https://img.shields.io/badge/Linux-5B11B4?&logo=Linux&logoColor=white"/></a> <img src="https://img.shields.io/badge/Html-D77281?&logo=Html5&logoColor=white"/></a> <img src="https://img.shields.io/badge/Css-5F0053?&logo=Css3&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Security-557C94?&logo=Kali-Linux&logoColor=white"/></a> 
 
  
  
